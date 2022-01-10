@@ -30,4 +30,12 @@
 ![SolaT.yolo github stats](https://github-readme-stats.vercel.app/api?username=SolaTyolo&show_icons=true&hide_border=true&theme=vue)
 
 
+---
+
+### Side Projects And Hobbies
+
+[100DaysOfNoCode - using 100 days to learn how to build app without code ](https://github.com/SolaTyolo/100DaysOfNoCode)
+
+[monoposer - some workflows tools  based on monorepo ](https://monoposer.github.io/)
+
 ⭐️ From [SolaTyolo](https://github.com/SolaTyolo)
