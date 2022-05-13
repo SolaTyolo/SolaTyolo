@@ -30,7 +30,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 
 
-![solatyolo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=6edcd676-c0b8-478f-ae68-24f5b4b42288&hide_title=true)
+![solatyolo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=6edcd676-c0b8-478f-ae68-24f5b4b42288&hide_title=true&langs_count=5)
 ---
 
 ### Side Projects And Hobbies
